@@ -1,0 +1,46 @@
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Build
+build/
+*/build/
+
+# Gradle
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
+
+# Local configuration
+local.properties
+
+# APK / AAB
+*.apk
+*.aab
+
+# Generated files
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Kotlin
+.kotlin/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+.env.*
+secrets.properties
+google-services.json
+
+# Temporary files
+*.tmp
+*.temp
