@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Student Information</string>
+    <string name="title_registration">Student Registration</string>
+    <string name="label_name">Name:</string>
+    <string name="hint_name">Enter your full name</string>
+    <string name="label_email">Email:</string>
+    <string name="hint_email">Enter your email</string>
+    <string name="label_mobile">Mobile:</string>
+    <string name="hint_mobile">Enter mobile number</string>
+    <string name="label_password">Password:</string>
+    <string name="hint_password">Enter password</string>
+    <string name="label_gender">Gender:</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="label_course">Course:</string>
+    <string name="label_hobbies">Hobbies:</string>
+    <string name="hobby_coding">Coding</string>
+    <string name="hobby_reading">Reading</string>
+    <string name="hobby_sports">Sports</string>
+    <string name="hobby_music">Music</string>
+    <string name="btn_register">REGISTER</string>
+
+    <string-array name="course_options">
+        <item>Select Course</item>
+        <item>Computer Science</item>
+        <item>Information Technology</item>
+        <item>Mechanical Engineering</item>
+        <item>Civil Engineering</item>
+        <item>Electrical Engineering</item>
+    </string-array>
+</resources>
