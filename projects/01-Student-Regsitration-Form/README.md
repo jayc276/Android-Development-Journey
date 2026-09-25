@@ -30,7 +30,7 @@ A simple Android application created to practice basic Android development and X
 
 ## 📱 Screenshot
 
-Add a screenshot of the application here:
+Added a screenshot of the application here:
 
 ```text
 screenshots/
